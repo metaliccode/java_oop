@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # Belajar Java Dasar OOP
 
 Ini adalah Materi Java OOP
+=======
+## Materi Java OOP
+Materi mencangkup konsep Object, Class, Inheritance, Polymorphism, dll
+>>>>>>> 00bb816918cdfa6fc729bb1b250a82ad07d0d561
 
 ## Getting Started
 
