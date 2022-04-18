@@ -1,6 +1,10 @@
 # Materi Java OOP
 Materi mencangkup konsep Object, Class, Inheritance, Polymorphism, dll
 
+## Environments
+- openjdk 18 2022-03-22
+- OpenJDK Runtime Environment (build 18+36-2087)
+- OpenJDK 64-Bit Server VM (build 18+36-2087, mixed mode, sharing)
 
 ## Getting Started
 
